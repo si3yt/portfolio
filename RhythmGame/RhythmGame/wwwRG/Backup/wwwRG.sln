@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wwwRG", "wwwRG\wwwRG.csproj", "{489CDDB2-6419-4B04-B1FF-218D88A03A9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72FF47C7-42E7-4088-B6E8-145181825420}"
+	ProjectSection(SolutionItems) = preProject
+		..\クラッカー\クラッカー右.png = ..\クラッカー\クラッカー右.png
+		..\クラッカー\クラッカー左.png = ..\クラッカー\クラッカー左.png
+		..\..\か、仮なんだからねっ！\矢印\上矢印X.png = ..\..\か、仮なんだからねっ！\矢印\上矢印X.png
+		..\..\か、仮なんだからねっ！\矢印\上矢印Y.png = ..\..\か、仮なんだからねっ！\矢印\上矢印Y.png
+		..\..\か、仮なんだからねっ！\矢印\下矢印X.png = ..\..\か、仮なんだからねっ！\矢印\下矢印X.png
+		..\..\か、仮なんだからねっ！\矢印\下矢印Y.png = ..\..\か、仮なんだからねっ！\矢印\下矢印Y.png
+		..\..\か、仮なんだからねっ！\矢印\右矢印X.png = ..\..\か、仮なんだからねっ！\矢印\右矢印X.png
+		..\..\か、仮なんだからねっ！\矢印\右矢印Y.png = ..\..\か、仮なんだからねっ！\矢印\右矢印Y.png
+		wwwRG\妖精さん-文字.png = wwwRG\妖精さん-文字.png
+		wwwRG\妖精さん-文字2.png = wwwRG\妖精さん-文字2.png
+		wwwRG\妖精さん-文字3.png = wwwRG\妖精さん-文字3.png
+		wwwRG\妖精さん1-横.png = wwwRG\妖精さん1-横.png
+		wwwRG\妖精さん1-横2.png = wwwRG\妖精さん1-横2.png
+		wwwRG\妖精さん1-正面.png = wwwRG\妖精さん1-正面.png
+		wwwRG\妖精さん1-背面.png = wwwRG\妖精さん1-背面.png
+		wwwRG\妖精さん2-側面.png = wwwRG\妖精さん2-側面.png
+		wwwRG\妖精さん2-側面2.png = wwwRG\妖精さん2-側面2.png
+		wwwRG\妖精さん2-正面.png = wwwRG\妖精さん2-正面.png
+		wwwRG\妖精さん2-正面2.png = wwwRG\妖精さん2-正面2.png
+		wwwRG\妖精さん3.png = wwwRG\妖精さん3.png
+		..\宇宙\宇宙1.jpg = ..\宇宙\宇宙1.jpg
+		..\宇宙\宇宙2.jpg = ..\宇宙\宇宙2.jpg
+		..\..\か、仮なんだからねっ！\矢印\左矢印X.png = ..\..\か、仮なんだからねっ！\矢印\左矢印X.png
+		..\..\か、仮なんだからねっ！\矢印\左矢印Y.png = ..\..\か、仮なんだからねっ！\矢印\左矢印Y.png
+		..\矢印\背景1.png = ..\矢印\背景1.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489CDDB2-6419-4B04-B1FF-218D88A03A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489CDDB2-6419-4B04-B1FF-218D88A03A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489CDDB2-6419-4B04-B1FF-218D88A03A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489CDDB2-6419-4B04-B1FF-218D88A03A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

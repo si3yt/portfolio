@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="wwwRG">
+</Property><Property Name="ソリューション ファイル" Value="D:\プログラム開発\RhythmGame\wwwRG\wwwRG.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="D:\プログラム開発\RhythmGame\wwwRG\wwwRG.suo">
+</Property><Property Name="Date" Value="2013年1月12日">
+</Property><Property Name="Time" Value="21:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="wwwRG.sln" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="wwwRG.suo" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\wwwRG.csproj" Description="プロジェクト ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\wwwRG.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\wwwRG.csproj.user" Description="プロジェクト ユーザー ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\wwwRG.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\App.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\App.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Window1.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Window1.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\asobikata1.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\asobikata1.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\asobikata2.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\asobikata2.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\level.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\level.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\names.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\names.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\player.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\player.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Properties\AssemblyInfo.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Properties\Resources.Designer.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Properties\Settings.Designer.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\ranking.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\ranking.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\result.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\result.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Settings.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Settings.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\songs.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\songs.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\start.xaml.cs" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\start.xaml.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\ClassDiagram1.cd" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\ClassDiagram1.cd としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Properties\Settings.settings" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Properties\Resources.resx" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\App.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\App.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\asobikata1.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\asobikata1.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\asobikata2.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\asobikata2.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\level.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\level.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\names.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\names.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\player.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\player.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\ranking.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\ranking.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\result.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\result.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\songs.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\songs.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\start.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\start.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\Window1.xaml" Description="ファイルは正常に D:\プログラム開発\RhythmGame\wwwRG\Backup\wwwRG\Window1.xaml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\wwwRG.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="wwwRG" Source="wwwRG\wwwRG.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="wwwRG.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="wwwRG.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="wwwRG" Source="wwwRG\wwwRG.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

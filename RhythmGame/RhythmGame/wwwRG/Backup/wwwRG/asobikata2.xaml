@@ -1,0 +1,25 @@
+﻿<Page x:Class="wwwRG.asobikata2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="asobikata2" Height="700" 
+    Width="1000" 
+    Background="Black">
+    <Grid>
+        <Image Margin="41.675,208.375,244.995,23.338" Name="image1" Stretch="Fill" Source="/wwwRG;component/プレイ画面.png" />
+        <Label Height="100" Margin="178.369,36.674,171.701,0" 
+            Name="label1" 
+            VerticalAlignment="Top"
+            Foreground="Yellow"
+            FontSize="70">♤♠あそびかた♠♤</Label>
+        <Button Height="88" HorizontalAlignment="Right" Margin="0,0,16.67,23.338" Name="button1" VerticalAlignment="Bottom" Width="188" FontSize="40" 
+            Background="Gold" Click="button1_Click">スタート</Button>
+        <Label Height="66.68" Margin="41.675,143.362,171.701,0" Name="label2" VerticalAlignment="Top" Foreground="LightGoldenrodYellow" FontSize="40"
+               >3.ゲームのせつめい。（プレイがめん）</Label>
+        <TextBlock Height="86.684" Margin="256.048,0,244.995,150" Name="textBlock1" TextWrapping="Wrap" VerticalAlignment="Bottom" Foreground="LightCyan" FontSize="30" 
+                   >うえからおちてくるやじるしにあわせて、やじるしボタンをおそう↓</TextBlock>
+        <TextBlock Margin="422.299,247.5,171.701,345" Name="textBlock2" TextWrapping="Wrap" Foreground="LightCyan" FontSize="30">
+            れんぞくで「good!」や　「great!」でコンボをしよう</TextBlock>
+        <Label HorizontalAlignment="Left" Margin="440,380,0,368" Name="label3" Width="38" Foreground="LightCyan" FontSize="30">↓</Label>
+     
+    </Grid>
+</Page>

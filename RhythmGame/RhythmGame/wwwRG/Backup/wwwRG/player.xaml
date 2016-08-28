@@ -1,0 +1,62 @@
+﻿<Page x:Class="wwwRG.player"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="player"
+    Height="700" 
+    Width="1000"
+    Background="Black" Loaded="Page_Loaded">
+    <Grid>
+        <Canvas Name="canvas3" Width="1000" Height="800"/>
+        <Canvas Name="canvas2" Width="1000" Height="800"/>
+        <Label Height="57"
+               Width="308.25"
+               HorizontalAlignment="Left" 
+               Margin="16,0,0,31" 
+               Name="label1" 
+               VerticalAlignment="Bottom"
+               Background="WhiteSmoke" 
+               FlowDirection="RightToLeft"
+               FontSize="40">0点</Label>
+        <Label 
+            Height="75.901" Margin="400,0,456.758,78.349" 
+            Name="label2" 
+            VerticalAlignment="Bottom" Foreground="HotPink" FontSize="20"></Label>
+        
+        <Label 
+            Foreground="LightGreen" 
+            Height="76.682" 
+            HorizontalAlignment="Right" 
+            Margin="0,0,186.704,78.349" 
+            Name="label3" 
+            VerticalAlignment="Bottom" 
+            Width="140.028" FontSize="20"></Label>
+        
+        <Label 
+            Foreground="SkyBlue" 
+            Height="76.682" 
+            HorizontalAlignment="Right" 
+            Margin="0,0,333.4,78.349" 
+            Name="label4" 
+            VerticalAlignment="Bottom" 
+            Width="126.692" FontSize="20"></Label>
+        <Label FontSize="20" Foreground="Red" Height="37.5" HorizontalAlignment="Left" Margin="155.75,0,0,214" Name="label7" VerticalAlignment="Bottom" Width="87">Great!：</Label>
+        <Label FontSize="20" Foreground="Red" Height="40" HorizontalAlignment="Left" Margin="233.75,0,0,212" Name="label8" VerticalAlignment="Bottom" Width="81.75">0</Label>
+        <Label FontSize="20" Foreground="Orange" Height="36.25" HorizontalAlignment="Left" Margin="158.75,0,0,185" Name="label9" VerticalAlignment="Bottom" Width="83.75">Good!：</Label>
+        <Label FontSize="20" Foreground="Orange" Height="41.25" HorizontalAlignment="Left" Margin="233.75,0,0,180" Name="label10" VerticalAlignment="Bottom" Width="73">0</Label>
+        <Label FontSize="20" Foreground="LightBlue" Height="36.25" HorizontalAlignment="Left" Margin="158.75,0,0,158" Name="label11" VerticalAlignment="Bottom" Width="83.75">Bad...：</Label>
+        <Label FontSize="20" Foreground="LightBlue" Height="33.75" HorizontalAlignment="Left" Margin="233.75,0,0,161" Name="label12" VerticalAlignment="Bottom" Width="65">0</Label>
+        <Label Margin="33,64,0,0" Name="label5" Foreground="HotPink" FontSize="30" HorizontalAlignment="Left" Width="123" Height="50" VerticalAlignment="Top">うた：</Label>
+        <Label FontSize="30" Foreground="HotPink" HorizontalAlignment="Left" Margin="46,113,0,0" Name="label6" Width="247" Height="50" VerticalAlignment="Top"></Label>
+        <Label FontSize="30" Foreground="LightGoldenrodYellow" HorizontalAlignment="Left" Margin="30,157,0,0" Name="label13" Width="126" Height="57" VerticalAlignment="Top">レベル：</Label>
+        <Label FontSize="30" Foreground="LightGoldenrodYellow" HorizontalAlignment="Left" Margin="150,157,0,0" Name="label14" Width="160" Height="50" VerticalAlignment="Top"></Label>
+        
+        <Label Margin="387,118,68,172" Name="label15" Foreground="LightYellow" FontSize="100" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <Label Foreground="LightYellow" Height="76.682" HorizontalAlignment="Right" Margin="0,0,46.676,78.349" Name="label16" VerticalAlignment="Bottom" Width="133.36" FontSize="20"></Label>
+        <Label Height="44" HorizontalAlignment="Left" Margin="16,0,0,100" Name="label17" VerticalAlignment="Bottom" Width="161" Foreground="Orange" FontSize="30">とくてん：</Label>
+        <Label Name="label18" FontSize="50" Foreground="LightPink" Margin="30,0,0,350" FontFamily="weight" Height="78.349" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="308.395"></Label>
+        <Canvas Name="canvas1" Width="1000" Height="700">
+            <Label Canvas.Left="16" Canvas.Top="385.077" Height="46.676" Name="player_name_label" Foreground="Yellow" Width="212.5" FontSize="30"></Label>
+            
+        </Canvas>
+    </Grid>
+</Page>

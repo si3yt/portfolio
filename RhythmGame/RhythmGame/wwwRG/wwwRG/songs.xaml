@@ -1,0 +1,86 @@
+﻿<Page x:Class="wwwRG.songs"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="songs" Height="700" 
+    Width="1000" 
+    Background="Black" >
+    <Grid>
+        <Image Name="image1" Stretch="Fill" Source="/wwwRG;component/背景1.png" />
+        <Label 
+            Height="100" 
+            Margin="81,47,114,0" 
+            Name="label1" 
+            VerticalAlignment="Top"  
+            FontStyle="Oblique" 
+            Foreground="Yellow" 
+            FontSize="60" 
+            HorizontalContentAlignment="Center" 
+            FlowDirection="LeftToRight">
+            ♪きょくせんたく♪
+        </Label>
+        <ListBox HorizontalAlignment="Left" 
+                 Margin="10,164,0,82" 
+                 Name="listBox1" 
+                 Width="308" 
+                 SelectionChanged="listBox1_SelectionChanged"
+                 FontSize="25">
+            <ListBoxItem Selected="ListBoxItem_Selected" IsSelected="False">アルプス一万尺</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_1"
+                         >きらきら星</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_2"
+                         >シャボン玉</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_3"
+                         >はるがきた</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_4"
+                         >森のクマさん</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_5"
+                         >ロンドンばし</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_6"
+                         >ジングルベル</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_7"
+                         >大きなくりの木の下で</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_8"
+                         >虫のこえ</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_9"
+                         >うさぎとかめ</ListBoxItem>
+            <ListBoxItem Foreground="White" Selected="ListBoxItem_Selected_10"
+                         >???</ListBoxItem>
+        </ListBox>
+
+        <Label Height="62.5" 
+               Margin="326,243,97,0" 
+               Name="label2" 
+               VerticalAlignment="Top" 
+               Foreground="Violet" 
+               FontSize="30"
+               >えらんだきょく↓</Label>
+        <Label Margin="326,285.4,114,350" 
+               Name="label3" 
+               Foreground="HotPink" 
+               FontSize="40">きょくをえらんでね！</Label>
+        
+        <Label Height="48" Margin="326,164,114,0" 
+               Name="label4" 
+               VerticalAlignment="Top" 
+               Foreground="LightGoldenrodYellow"
+               FontSize="30"
+               >LEVEL</Label>
+        <Label FontSize="40" Foreground="LightGoldenrodYellow" Margin="326,0,426,256.6" Name="label5" Height="68" VerticalAlignment="Bottom">むずかしさ：</Label>
+        <Label FontSize="40" Foreground="LightGoldenrodYellow" Height="57.4" Margin="0,0,30,267.2" Name="label6" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="405">☆☆☆☆☆</Label>
+        <Button Height="84.311" 
+                HorizontalAlignment="Right" 
+                Margin="0,0,87,82" 
+                Name="button1" 
+                VerticalAlignment="Bottom" 
+                Width="348" 
+                FontSize="50" 
+                Background="LightBlue" 
+                Click="button1_Click"
+                MouseEnter="button1_MouseEnter"
+                MouseLeave="button1_MouseLeave" IsEnabled="False">
+            スタート!!→
+        </Button>
+        <Canvas Height="178.625" Margin="281,0,0,58" Name="canvas1" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="181.183" />
+        
+    </Grid>
+</Page>

@@ -1,0 +1,42 @@
+﻿<Page x:Class="wwwRG.level"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="levels" Height="700" Width="1000" Background="black" Loaded="button1_Click">
+    <Grid>
+        <Image Name="image1" Stretch="Fill" Source="/wwwRG;component/背景1.png" />
+        <Label Height="156" 
+               Margin="47.5,27.5,45,0" 
+               Name="label1" 
+               VerticalAlignment="Top" 
+               Foreground="Yellow" 
+               FontSize="100" 
+               FontStyle="Oblique"
+               >‡レベルせんたく‡</Label>
+        <Button MaxHeight="Infinity" 
+                MaxWidth="Infinity" 
+                FontSize="60" Margin="294,335,280,265" 
+                Name="button2" Background="LightGreen" 
+                Click="button2_Click" IsEnabled="True" MouseEnter="button2_MouseEnter">
+            ふつう
+            
+        </Button>
+        <Button MaxHeight="Infinity" 
+                MaxWidth="Infinity" 
+                FontSize="60" 
+                Height="100" 
+                Margin="294,0,280,112" 
+                Name="button3" 
+                VerticalAlignment="Bottom" 
+                Background="LightSkyBlue" 
+                FlowDirection="LeftToRight" 
+                Click="button3_Click"
+                MouseEnter="button3_MouseEnter">
+            むずかしい
+        </Button>
+        <Button Background="LightPink" BorderThickness="1" FontSize="60" IsCancel="False" IsDefault="False" IsEnabled="True" Margin="294,182.5,280,0" MaxHeight="Infinity" MaxWidth="Infinity" Name="button4" Click="button4_Click" Height="100" MouseEnter="button4_MouseEnter" VerticalAlignment="Top">かんたん</Button>
+        <Canvas HorizontalAlignment="Left" Margin="120,160,0,87.5" Name="canvas1" Width="142.5" />
+        <Label Height="65" HorizontalAlignment="Right" Margin="0,214.3,45,0" Name="label2" VerticalAlignment="Top" Width="215" FontSize="30" Foreground="LightGoldenrodYellow">やじるし１つ</Label>
+        <Label FontSize="30" Foreground="LightGoldenrodYellow" Height="65" HorizontalAlignment="Right" Margin="0,0,45,115.2" Name="label3" VerticalAlignment="Bottom" Width="215">やじるし４つ</Label>
+        <Label FontSize="30" Foreground="LightGoldenrodYellow" Height="65" HorizontalAlignment="Right" Margin="0,0,45,268.2" Name="label4" VerticalAlignment="Bottom" Width="215">やじるし２つ</Label>
+    </Grid>
+</Page>
